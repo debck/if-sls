@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "airbnb",
+    "prettier"
+  ],
+  "globals": {
+    "afterAll": true,
+    "beforeAll": true,
+    "beforeEach": true,
+    "describe": true,
+    "expect": true,
+    "fit": true,
+    "it": true,
+    "jasmine": true,
+    "xit": true,
+    "jest": true
+  },
+  "rules" : {
+    "no-console": 0
+  }
+}
